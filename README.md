@@ -6,6 +6,7 @@
 
 - `add(a, b)`：两数相加
 - `subtract(a, b)`：两数相减
+- `divide(a, b)`：两数相除
 
 ## 运行测试
 
