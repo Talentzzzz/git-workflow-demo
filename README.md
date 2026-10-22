@@ -6,6 +6,7 @@
 
 - `add(a, b)`：两数相加
 - `subtract(a, b)`：两数相减
+- `divide(a, b)`：两数相除（除数为 0 时抛出 `ValueError`）
 
 ## 运行测试
 
